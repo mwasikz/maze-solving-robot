@@ -4,5 +4,9 @@ The robot is programmed to drive over the black or white lines of the maze and u
 
 The robot also has a mechanical hand to pick objects. The hand is created using simple strings and a servo. 
 
-https://user-images.githubusercontent.com/74035623/172057196-74686825-3010-411e-8721-3453124f9413.mp4
+
+
+https://user-images.githubusercontent.com/74035623/189491593-88d3ea97-e15d-4c8f-b5e3-aa888a6b7cb0.mp4
+
+
 
