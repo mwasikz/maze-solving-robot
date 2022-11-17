@@ -8,6 +8,7 @@ The robot also has a mechanical hand to pick objects. The hand is created using 
 
 https://user-images.githubusercontent.com/74035623/189491593-88d3ea97-e15d-4c8f-b5e3-aa888a6b7cb0.mp4
 
+---
 
 
 ## 🟠 Accolades
