@@ -17,3 +17,5 @@ https://user-images.githubusercontent.com/74035623/189491593-88d3ea97-e15d-4c8f-
 
 **Segment name: Maze Solver**
 
+![sust_ceremony](https://user-images.githubusercontent.com/74035623/202468509-05c9bd47-a695-438f-867e-a2e73b06cd47.png)
+
