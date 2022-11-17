@@ -1,3 +1,8 @@
+/* 
+Maze Solving and Object Picking Robot
+Developed by Md. Wasikuzzaman Azad Sajol & Md. Mubassirul Islam
+Team Maple Robotics
+*/
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 #include <NewPing.h> 
