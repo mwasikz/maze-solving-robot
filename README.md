@@ -13,6 +13,6 @@ https://user-images.githubusercontent.com/74035623/189491593-88d3ea97-e15d-4c8f-
 ## 🟠 Accolades
 
 ### Champion at LICT SUST TECHFEST 2019
-*Institute: Shahjalal University of Science and Technology*
+**Institute: Shahjalal University of Science and Technology**
 Segment name: Maze Solver
 
